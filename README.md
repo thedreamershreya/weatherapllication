@@ -31,6 +31,4 @@ This project was an assignment of our Integrify Bootcamp where we could work in 
     - push and pull code from other
 
 
-
-You can check the project's video [here](https://youtu.be/zdw_-N67uJU).  
-You can check the project [here](https://reactproject-weather.netlify.app/)
+  
