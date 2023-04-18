@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  font-size: 2rem;
+  text-align: center;
+  height: 50vh;
+  background-color: #EEEEEE;
+}

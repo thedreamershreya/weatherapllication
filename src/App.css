@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a{
+    color: #3A98B9;
+}
+
+a:hover{
+    color: #012E46;
+}
+
+.btn{
+    background-color: #3A98B9;
+    color: #EEEEEE;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin:1rem;
+}
+
+.active{
+    display: none;
+}
+

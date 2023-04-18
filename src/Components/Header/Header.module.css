@@ -1,0 +1,49 @@
+header{
+    background-color: #FFF1DC;
+    padding: 1rem;
+}
+
+.title{
+    font-size: 50px;
+    color: #3A98B9;
+    animation-name: h1-bigger;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes h1-bigger {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.5);
+    }
+}
+
+.img{
+    width:150px;
+    border-radius: 20px;
+}
+
+.banner{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.active{
+    color:orange
+}
+
+.subscribe{
+    margin-bottom: 20px
+}
+
+@media screen and (max-width: 1024px){
+   
+.img{
+    opacity: 0;
+}
+
+}
